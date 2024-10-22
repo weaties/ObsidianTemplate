@@ -1,0 +1,20 @@
+{
+  "periodic-notes:open-daily-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "quickadd:choice:6c235619-f397-4c3a-9981-84b666cf0a41": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ]
+}

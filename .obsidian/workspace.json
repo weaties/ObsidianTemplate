@@ -1,0 +1,308 @@
+{
+  "main": {
+    "id": "37aebb87e51c2b52",
+    "type": "split",
+    "children": [
+      {
+        "id": "9afc41e017905802",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d493dfa0edb2b92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "1536daef5662493a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to use this vault.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to use this vault"
+            }
+          },
+          {
+            "id": "358d459dc0edcb57",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "CleanShot 2024-10-21 at 14.34.17.png"
+              },
+              "icon": "lucide-image",
+              "title": "CleanShot 2024-10-21 at 14.34.17"
+            }
+          },
+          {
+            "id": "e7138e0fee14406a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How this vault was created.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How this vault was created"
+            }
+          },
+          {
+            "id": "66f1015cb9bce426",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Quotes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily Quotes"
+            }
+          },
+          {
+            "id": "7738e386b98b7505",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01Weekly/24-10-Oct/W43/24W43-weekly summary qqw.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "24W43-weekly summary qqw"
+            }
+          },
+          {
+            "id": "1f228aac49dee851",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to use this vault.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to use this vault"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7998c05226aa34f",
+    "type": "split",
+    "children": [
+      {
+        "id": "05795a0eaa5b2883",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c65df1e7ae722e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "26290de92c6cd36c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "709cc02d22121e18",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c499da18c56b9ecc",
+    "type": "split",
+    "children": [
+      {
+        "id": "07acc4b8ad071553",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35ebf6a5229af990",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "How to use this vault.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for How to use this vault"
+            }
+          },
+          {
+            "id": "f72ba8f4a44dd11c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "How to use this vault.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from How to use this vault"
+            }
+          },
+          {
+            "id": "09411ccd6b6a1a17",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "093c7568b98ccedb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "How to use this vault.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of How to use this vault"
+            }
+          },
+          {
+            "id": "f8b865d8ea7ac950",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "1f228aac49dee851",
+  "lastOpenFiles": [
+    "attachments/CleanShot 2024-10-21 at 16.54.25.png",
+    "attachments/CleanShot 2024-10-21 at 16.53.02.png",
+    "01Weekly/24-10-Oct/W43/1021-1-Mon 15 44 sample for showing how things get setup.md",
+    "People/Dan Weatbrook.md",
+    "01Weekly/24-10-Oct/W43/attachments/CleanShot 2024-10-21 at 16.42.17.png",
+    "01Weekly/24-10-Oct/W43/attachments",
+    "People",
+    "How to use this vault.md",
+    "attachments/CleanShot 2024-10-21 at 16.37.53.png",
+    "Other Tools and their setup.md",
+    "attachments/CleanShot 2024-10-21 at 16.35.30.png",
+    "attachments/CleanShot 2024-10-21 at 16.33.29.png",
+    "attachments/Pasted image 20241021163000.png",
+    "01Weekly/24-10-Oct/W43/24W43-1-Mon-dailynote.md",
+    "attachments/CleanShot 2024-10-21 at 16.17.38.png",
+    "Templates/People-Template.md",
+    "Obsidian resources.md",
+    "How I manage meeting notes in obsidian.md",
+    "How this vault was created.md",
+    "Templates/Daily-Notes-Template.md",
+    "attachments/CleanShot 2024-10-21 at 15.46.26.png",
+    "01Weekly/24-10-Oct/W43/24W43-weekly summary qqw.md",
+    "01Weekly/24-10-Oct/W43/1021-1-Mon 15 25 test.md",
+    "Templates/Weekly-note-template.md",
+    "attachments/CleanShot 2024-10-21 at 15.35.40.png",
+    "attachments/CleanShot 2024-10-21 at 15.31.27.png",
+    "01Weekly/24-10-Oct/24-Oct-monthly summary qqm.md",
+    "attachments",
+    "2024-10-21.md",
+    "Daily Quotes.md",
+    "01Weekly/24-10-Oct/W43",
+    "01Weekly/24-10-Oct",
+    "01Weekly/24-10-Oct/W43/1021-1-Mon 15 19 this is a test.md",
+    "01Weekly/24-10-Oct/W43/1021-1-Mon 15 14 deel.md",
+    "01Weekly/24",
+    "01Weekly/24/1021-1-Mon 15 13 this should bne in the year.md",
+    "01Weekly/1021-1-Mon 15 12 in a folder.md",
+    "1021-1-Mon 15 11 test a meeting note.md",
+    "testa meting note.md",
+    "01Weekly",
+    "Templates/Meeting-note-template.md",
+    "Templates/Monthly-note-template.md",
+    "Templates",
+    "Welcome.md"
+  ]
+}
